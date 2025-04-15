@@ -1,1 +1,1 @@
-A restaurant menu 
+A restaurant menu application
