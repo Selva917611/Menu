@@ -6,7 +6,7 @@ main_routes = Blueprint('main', __name__)
 # Sample menu items
 menu_items = [
     {"id": 1, "name": "Idli", "price": 30},
-    {"id": 2, "name": "Dosa", "price": 50},
+    {"id": 2, "name": "Dosa", "price": 60},
     {"id": 3, "name": "Sambar", "price": 20},
     {"id": 4, "name": "Vada", "price": 25},
 ]
